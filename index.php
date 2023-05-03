@@ -36,7 +36,7 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en la  Unidad Educativa Fiscomisional San Francisco de Asís, donde me gradue en Hotelería y Turismo,Durante mis estudios, adquirí habilidades en diversas áreas, incluyendo la administración de servicios turísticos y hoteleros, planificación y desarrollo de itinerarios turísticos, comunicación y atención al cliente, entre otros. </p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en la  Unidad Educativa Fiscomisional San Francisco de Asís, donde me gradue en Hotelería y Turismo. Durante mis estudios, adquirí habilidades en diversas áreas, incluyendo la administración de servicios turísticos y hoteleros, planificación y desarrollo de itinerarios turísticos, comunicación y atención al cliente, entre otros. </p>
                    <p class="eys-parrafo">En particular, mi enfoque en Hotelería y Turismo me permitió comprender mejor la importancia de la industria del turismo en el mundo actual y aprender a analizar y resolver problemas de manera crítica en este campo</p>
 <p class="eys-parrafo"> Estoy muy agradecida por mi educación en Hotelería y Turismo, ya que me ha dado una base sólida de habilidades interpersonales para mi carrera actual</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
