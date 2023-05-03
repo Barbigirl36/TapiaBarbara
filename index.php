@@ -46,7 +46,7 @@ include("marco-right.php");
 
 
                    <p  class="eys-parrafo">Soy una apasionada por la tecnología y cuento con conocimientos básicos en programación. He trabajado con lenguajes como HTML, CSS y JavaScript, y tengo experiencia en la creación de páginas web simples.</p> 
-                   <p  class="eys-parrafo">A pesar de ser de todo, estoy en constante aprendizaje y busco oportunidades para seguir mejorando mis habilidades en el ámbito de la tecnología. Estoy motivado a aprender más sobre programación y a trabajar en proyectos desafiantes que me permitan desarrollar mi potencial.</p>
+                   <p  class="eys-parrafo">A pesar de ser de todo, estoy en constante aprendizaje y busco oportunidades para seguir mejorando mis habilidades en el ámbito de la tecnología. Estoy motivada a aprender más sobre programación y a trabajar en proyectos desafiantes que me permitan desarrollar mi potencial.</p>
              
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
