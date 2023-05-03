@@ -24,7 +24,7 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">¡Hola! Me complace presentarme, soy Tapia Nevárezz<b> Barbara Dayana Paulet </b>, estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica Luis Vargas Torres. </p>
+                   <p class="eys-parrafo">¡Hola! Me complace presentarme, soy Tapia Nevárez<b> Barbara Dayana Paulet </b>, estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica Luis Vargas Torres. </p>
                    <p class="eys-parrafo">Durante mi tiempo en esta carrera, he adquirido habilidades y conocimientos en diversas áreas de la tecnología, incluyendo programación, bases de datos y mucho más.</p>
                    <p class="eys-parrafo">Desde que inicié mi carrera universitaria, me he enfocado en mejorar mis habilidades y conocimientos para ser un profesional altamente capacitado en mi área.</p>
                    <p class="eys-parrafo">He participado en varios proyectos de tecnología, lo que me ha permitido ganar experiencia en situaciones reales y me ha dado la oportunidad de aprender sobre trabajo en equipo, liderazgo y toma de decisiones.</p>
